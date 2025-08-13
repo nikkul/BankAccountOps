@@ -79,12 +79,4 @@ public class BankAccountOps {
     void checkBalance(){
         System.out.println("Chote itnahi paisa baki hai tere paaasss  "+balance);
     }
-
-
-
-
-
-
-
-
 }
